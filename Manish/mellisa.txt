@@ -1,0 +1,62 @@
+Customer and Product Matching
+
+Abhishek jain
+
+
+show all of the attributes
+
+
+Allow tolerances
+
+Zackary edwards
+Zack erobinson
+
+similarity score
+
+
+convert names with phonetics
+
+aws incremented match
+
+aws dume
+
+bob nadeli
+robart nadeli
+
+
+Mellisa lookups
+
+
+Phone 1 and phone 2 matching
+
+
+similar name
+email domain match
+
+never match us customer to canada 
+
+case 1 match 
+case 2 match
+case 3 match
+
+
+API optimization
+
+output replica
+
+7,00,000 to 2000 match
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
